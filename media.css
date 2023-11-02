@@ -76,9 +76,14 @@
     }
 
 
-.heading_details {
-  font-size: 20px;
-}
+    .card-img-top{
+      width: 100%;
+      height: 40vw;
+    }
+
+   .heading_details {
+     font-size: 20px;
+    }
 
     hr {
       position: relative;
@@ -120,11 +125,6 @@
 
     .service{
       margin-top: -190px;
-    }
-
-  .card-img-top{
-      width: 100%;
-      height: 40vw;
     }
 
     .blogs{
