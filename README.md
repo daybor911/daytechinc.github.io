@@ -1,2 +1,2 @@
-# daytechinc.io
+# daytechinc.github.io
 website portfolio
