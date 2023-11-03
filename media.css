@@ -23,17 +23,17 @@
     margin-right: 10px;
 
   }
+  
 
-
- .logo{
-  font-size: 30px;
+.logo{
+  font-size: 20px;
   font-weight: 500;
   color: green;
   position: relative;
-  top: 30px;
-  left: 20px;
+  top: -10px;
+  left: 133px;
 }
-
+  
   .img_home{
     display: none;
   }
