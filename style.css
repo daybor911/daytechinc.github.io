@@ -235,7 +235,6 @@ top: -250px;
 
 /* second image */
 .img_about{
-  width: 20px;
   padding-top: 100px;
 }
 
@@ -606,11 +605,12 @@ margin-top: -100px;
 
 /* this is testimonial paragraph lorem ipsum */
 .para_testimonial{
-  font-size: 18px;
-  line-height: 21px;
+  font-size: 16px;
+  line-height: 16px;
   font-weight: 400;
   font-style: italic;
   color: rgba(0, 0, 0, 0.614);
+  padding-left: 80px;
 }
 
 .profile_testimonial{
