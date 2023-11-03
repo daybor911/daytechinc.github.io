@@ -264,7 +264,7 @@
     }
 
     .heading_testimonials{
-      font-size: 25px;
+      font-size: 20px;
       padding-right: 2rem;
     }
 
@@ -281,11 +281,31 @@
       width: 100%; */
      
     }
+
+    .footer {
+      all: revert;
+    }
     
+    .footer p {
+      color: #fff;
+      /* /* padding-left: 450px; */
+      padding-top: 15px;
+      font-size: 15px;
+    }
 
     .footer{
-      position: relative;
-      bottom: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      /* text-align: center;
+      display: block; */
+    }
+
+    .footer .email{
+      color:#fff;
+    }
+    .footer .phone_no{
+      color:#fff;
     }
 
 }
@@ -399,12 +419,6 @@
       /* flex-wrap: wrap;
       width: 100%; */
      
-    
+  
 
-    .footer{
-      position: relative;
-      bottom: 0;
-    }
-
-} */
 
