@@ -158,23 +158,30 @@
       display: none;
     }
 
-    .heading_text{
-      font-size: 15px;
-      padding-left: 150px;
-    }
 
     .service_container{
       display: block;
     }
 
-    .heading_text{
-      font-size: 15px;
-      padding-left: 139px;
+    .content_services .heading_text{
+      font-size: 20px;
+      padding-left: 110px;
+      font-weight: 600;
     }
 
     .content_text .para_text{
      padding-left: 1rem;
     }
+
+    .content_services .heading_marketing{
+      padding-left: 129px;
+    }
+
+    .content_services .heading_ux{
+      padding-left: 126px;
+    }
+
+
 
     .content_services{
       display: block;
@@ -208,13 +215,16 @@
       bottom: 50px;
   }
 
+  
+
   .heading_skills{
     font-size: 30px;
+    
   }
 
   .skills .heading_text{
     position: relative;
-    right: 4rem;
+    left: 55px;
   }
 
   .content-skills{
@@ -389,5 +399,12 @@
       /* flex-wrap: wrap;
       width: 100%; */
      
-  
+    
+
+    .footer{
+      position: relative;
+      bottom: 0;
+    }
+
+} */
 
