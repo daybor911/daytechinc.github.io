@@ -3,7 +3,9 @@
   .img_about{
     width: 480px;
   }
-
+  .home_content{
+    margin-bottom: 2rem;
+  }
   .testimonial{
     width: 80%;
   }
@@ -70,6 +72,26 @@
       font-size: 14px;
     }
 
+    .icon_social{
+      background-color: #7f00ff;
+      color: white;
+    }
+
+    .btn_about{
+      display: inline-block !important;
+      padding: 11px 37px;
+      text-decoration: none;
+      background-color:rgb(190, 20, 20);
+      color: white;
+      border: 3px solid rgb(190, 20, 20);
+      width: 190px;
+      margin: -10px 0px;
+      font-weight: 600;
+      border-radius: 3px;
+      position: relative;
+      z-index: 77;
+    }
+   
     .detail_container{
       bottom: 40%;
       width: 300px;
@@ -127,6 +149,79 @@
       margin-top: -190px;
     }
 
+    .para_services{
+      font-size: 10px;
+      padding: 0 10px 0 10px;
+    }
+
+    .row_second{
+      display: none;
+    }
+
+    .heading_text{
+      font-size: 15px;
+      padding-left: 150px;
+    }
+
+    .service_container{
+      display: block;
+    }
+
+    .heading_text{
+      font-size: 15px;
+      padding-left: 139px;
+    }
+
+    .content_text .para_text{
+     padding-left: 1rem;
+    }
+
+    .content_services{
+      display: block;
+      /* position: relative;
+      left: 50px; */
+    }
+
+    .service_icons{
+      background-color: red;
+      color: white;
+    }
+
+    .icon_service{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .fa-chart-line:before{
+      position: relative;
+      bottom: 50px;
+    }
+
+    .fa-chart-simple:before {
+      position: relative;
+      bottom: 50px;
+    }
+
+    .fa-cubes:before {
+      position: relative;
+      bottom: 50px;
+  }
+
+  .heading_skills{
+    font-size: 30px;
+  }
+
+  .skills .heading_text{
+    position: relative;
+    right: 4rem;
+  }
+
+  .content-skills{
+    position: relative;
+    left: 2rem;
+  }
+
     .blogs{
      margin-top: 100px;
     }
@@ -156,6 +251,11 @@
     .para_testimonial{
       padding-top: 20px;
       font-size: 14px;
+    }
+
+    .heading_testimonials{
+      font-size: 25px;
+      padding-right: 2rem;
     }
 
   
