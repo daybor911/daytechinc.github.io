@@ -23,9 +23,9 @@
     margin-right: 10px;
 
   }
-  
 
-.logo{
+
+ .logo{
   font-size: 20px;
   font-weight: 500;
   color: green;
@@ -33,7 +33,7 @@
   top: 15px;
   left: 140px;
 }
-  
+
   .img_home{
     display: none;
   }
@@ -173,12 +173,16 @@
      padding-left: 1rem;
     }
 
+    .content_services .heading_seo{
+      padding-left: 120px;
+    }
+
     .content_services .heading_marketing{
-      padding-left: 129px;
+      padding-left: 138px;
     }
 
     .content_services .heading_ux{
-      padding-left: 126px;
+      padding-left: 132px;
     }
 
 
@@ -192,6 +196,7 @@
     .service_icons{
       background-color: red;
       color: white;
+      
     }
 
     .icon_service{
@@ -213,9 +218,9 @@
     .fa-cubes:before {
       position: relative;
       bottom: 50px;
-  }
+  } 
 
-  
+
 
   .heading_skills{
     font-size: 30px;
@@ -270,9 +275,6 @@
 
   
 
-
-
-   
 
     .contact_column .row{
       display: flex;
