@@ -325,7 +325,7 @@ top: -250px;
   color: rgb(190, 20, 20);
   border: 2px solid rgb(190, 20, 20);
   width: 200px;
-  margin: -10px 0px;
+  margin: 20px 0px;
   font-weight: 600;
   border-radius: 3px;
   position: relative;
@@ -351,13 +351,22 @@ top: -250px;
   color: white;
 }
 
+
+.tech_link{
+  color: #79829c;
+}
+
+.meta_link{
+  color: #79829c;
+}
+
 .service{
   width: 100%;
   /* height: 100vh; */
  /* position: relative; 
  top: -250px; */;
  /* padding: 50px; */
- margin-top: -140px;
+ margin-top: 5px;
 }
 
 .headings{
@@ -411,7 +420,7 @@ top: -250px;
 }
 
 .icon_service{
-  margin: 0px 24px;
+  margin: 10px 24px;
 }
 
 
@@ -749,7 +758,6 @@ button{
 }
 
 
-
 /* Footer */
 .footer {
   height: 100px;
@@ -770,19 +778,19 @@ button{
 .footer p {
   color: #fff;
   /* /* padding-left: 450px; */
-  padding-top: 40px;
-
+  padding-top: 35px;
 }
 
-.footer span {
+.footer .email{
+  color:#fff;
+}
+.footer .phone_no{
   color:#fff;
 }
 
 .footer a:hover {
   color: #28a745;
 }
-
-
 
 
 /* This command " > * " is for anything within the parent element */
